@@ -71,9 +71,8 @@ namespace API_Project.Controllers
         }
         #endregion
 
-
         #region Login
-        [HttpPost]
+        [HttpPost("login")]
         public async Task<ActionResult<AuthenticationResponse>> Login([FromBody] UserCredentials userCredentials)
         {
             var result = await signInManager.PasswordSignInAsync(userCredentials.Email, userCredentials.Password, isPersistent: false, lockoutOnFailure: false);

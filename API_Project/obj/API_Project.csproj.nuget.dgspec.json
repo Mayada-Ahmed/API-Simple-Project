@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mayada\\Desktop\\Task\\Back\\API-Simple-Project\\API_Project\\API_Project.csproj": {}
+    "C:\\Users\\Mayada\\Desktop\\Task\\Backend\\API-Simple-Project\\API_Project\\API_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mayada\\Desktop\\Task\\Back\\API-Simple-Project\\API_Project\\API_Project.csproj": {
+    "C:\\Users\\Mayada\\Desktop\\Task\\Backend\\API-Simple-Project\\API_Project\\API_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mayada\\Desktop\\Task\\Back\\API-Simple-Project\\API_Project\\API_Project.csproj",
+        "projectUniqueName": "C:\\Users\\Mayada\\Desktop\\Task\\Backend\\API-Simple-Project\\API_Project\\API_Project.csproj",
         "projectName": "API_Project",
-        "projectPath": "C:\\Users\\Mayada\\Desktop\\Task\\Back\\API-Simple-Project\\API_Project\\API_Project.csproj",
+        "projectPath": "C:\\Users\\Mayada\\Desktop\\Task\\Backend\\API-Simple-Project\\API_Project\\API_Project.csproj",
         "packagesPath": "C:\\Users\\Mayada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mayada\\Desktop\\Task\\Back\\API-Simple-Project\\API_Project\\obj\\",
+        "outputPath": "C:\\Users\\Mayada\\Desktop\\Task\\Backend\\API-Simple-Project\\API_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
